@@ -12,7 +12,7 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 
 This app served as an introduction to MVC architecture, view controllers, and Storyboards to create a simple quiz game.
 
-<img src="Quiz/preview.jpg" height="500">
+<img src="Quiz/preview.jpeg" height="500">
 
 [swift-version]: https://img.shields.io/badge/Swift-5.6-green.svg
 [xcode-version]: https://img.shields.io/badge/Xcode-13.3-green.svg
