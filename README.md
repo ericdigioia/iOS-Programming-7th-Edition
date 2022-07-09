@@ -5,6 +5,7 @@
 <br />
 ![Designed with UIKit][uikit]
 ![Designed with Storyboard][storyboard]
+![Conforms to MVC architecture][mvc]
 
 My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Guide (7th Edition)
 
@@ -24,3 +25,4 @@ https://bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-7th-edit
 [ios-version]: https://img.shields.io/badge/iOS-15.0-green.svg
 [uikit]: https://img.shields.io/badge/UIKit-%20-informational
 [storyboard]: https://img.shields.io/badge/Storyboard-%20-informational
+[mvc]: https://img.shields.io/badge/MVC-%20-lightgrey
