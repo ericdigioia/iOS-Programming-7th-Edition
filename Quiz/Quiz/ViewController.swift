@@ -4,7 +4,7 @@
 //
 //  Created by Eric Di Gioia on 7/9/22.
 //
-// NOTE: I did not follow the book code exactly; I wrote the code more concisely than the beginner-oriented book code
+//  NOTE: I did not follow the book code exactly; I wrote the code more concisely than the beginner-oriented book code
 
 import UIKit
 
