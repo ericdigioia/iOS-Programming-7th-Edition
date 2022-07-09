@@ -1,4 +1,4 @@
-# iOS-Programming-7th-Edition
+# iOS Programming 7th Edition
 ![Compatible with Swift 5.6][swift-version]
 ![Tested with Xcode 13.3][xcode-version]
 ![Tested with iOS 15.0][ios-version]
@@ -6,8 +6,7 @@
 ![Designed with UIKit][uikit]
 ![Designed with Storyboard][storyboard]
 
-My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Guide (7th Edition).
-(These solutions use Swift with UIKit and Storyboards.)
+My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Guide (7th Edition)
 
 ## Applications
 
