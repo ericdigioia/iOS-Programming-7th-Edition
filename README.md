@@ -9,13 +9,21 @@
 
 My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Guide (7th Edition)
 
-## Applications
+## Applications and Challenges
 
-### App 1: Quiz
+### Chapter 1 Tutorial: Quiz
 
-This app served as an introduction to MVC architecture, view controllers, and Storyboards to create a simple quiz game.
+This tutorial app served as an introduction to MVC architecture, view controllers, and Storyboards to create a simple quiz game.
 
-<img src="Quiz/preview.jpeg" height="500">
+<img src="Tutorial Code/Quiz/preview.jpeg" height="500">
+
+### Chapter 3 Challenge: WorldTrotter
+
+🥉 Bronze challenge: Remove all constraints from the ViewController and add them back in by yourself. <br />
+🥈 Silver challenge: Use a CAGradientLayer to add a gradient to the background of the view controller. <br />
+🥇 Gold challenge: Space out labels evenly from the top of the safe area to the bottom of the safe area (for any screen size).
+
+<img src="Chapter 3 Challenge/preview.jpeg" height="500">
 
 ## iOS Programming: The Big Nerd Ranch Guide (7th Edition)
 https://bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-7th-edition/
