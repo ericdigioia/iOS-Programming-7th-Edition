@@ -15,7 +15,7 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 
 This tutorial app served as an introduction to MVC architecture, view controllers, and Storyboards to create a simple quiz game.
 
-<img src="Tutorial Code/Quiz/preview.jpeg" height="500">
+<img src="Tutorial Code/Quiz/preview.GIF" height="500">
 
 ### Chapter 3 Challenge: WorldTrotter
 
