@@ -51,6 +51,20 @@ color each time it is viewed. <br/>
 nil<br/>
 <br clear="left"/><br/><br/>
 
+### Chapter 5 Challenge: WorldTrotter
+
+<img align="left" src="Chapter 5 Challenge/preview.GIF" height="600"><br/><br/><br/><br/>
+This chapter focused on building views and setting constraints programmatically. <br/>
+
+<br/> 🥉 Bronze Challenge <br/><br/>
+(Programmatically) create a switch to toggle showing points of <br/>
+interest on the map screen. <br/>
+<br/> 🥈 Silver Challenge <br/><br/>
+Recreate the temperature conversion screen view programmatically. <br/>
+<br/> 🥇 Gold Challenge <br/><br/>
+nil<br/>
+<br clear="left"/><br/><br/>
+
 ## iOS Programming: The Big Nerd Ranch Guide (7th Edition)
 https://bignerdranch.com/books/ios-programming-the-big-nerd-ranch-guide-7th-edition/
 

@@ -72,14 +72,10 @@
         <!--Map-->
         <scene sceneID="UuC-2W-Jd5">
             <objects>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="lVN-jQ-umO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <viewController id="lcY-ub-7Gu" customClass="MapViewController" customModule="WorldTrotter" customModuleProvider="target" sceneMemberID="viewController">
-                    <mapView key="view" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" mapType="standard" id="6ct-Vb-GSM">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                    </mapView>
                     <tabBarItem key="tabBarItem" title="Map" image="MapIcon" id="GoI-9Z-o1Q"/>
                 </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="lVN-jQ-umO" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="379.71014492753625" y="114.50892857142857"/>
         </scene>
@@ -89,6 +85,7 @@
                 <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="WoL-j1-lnx" sceneMemberID="viewController">
                     <toolbarItems/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="jkJ-ij-ssF">
+                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
