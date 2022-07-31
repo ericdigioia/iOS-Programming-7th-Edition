@@ -15,54 +15,54 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 ### Chapter 1 Tutorial: Quiz
 
 <img align="left" src="Tutorial Code/Quiz/preview.GIF" height="600"><br/><br/><br/><br/><br/><br/><br/><br/>
-This tutorial app served as an introduction <br/>
-to MVC architecture, view controllers, and <br/>
-Storyboards to create a simple quiz game.
+&emsp;&emsp; This tutorial app served as an introduction <br/>
+&emsp;&emsp; to MVC architecture, view controllers, and <br/>
+&emsp;&emsp; Storyboards to create a simple quiz game.
 <br clear="left"/><br/><br/>
 
 ### Chapter 3 Challenge: WorldTrotter
 
 <img align="left" src="Chapter 3 Challenge/preview.jpeg" height="600"><br/><br/><br/>
-This chapter focused on views and the view hierarchy as well as <br/>
-Auto Layout constraints in Interface Builder.<br/>
+&emsp;&emsp; This chapter focused on views and the view hierarchy as well as <br/>
+&emsp;&emsp; Auto Layout constraints in Interface Builder.<br/>
 
-<br/> 🥉 Bronze Challenge <br/><br/>
-Remove all constraints from the ViewController and add them <br/>
-back in by yourself. <br />
-<br/> 🥈 Silver Challenge <br/><br/>
-Use a CAGradientLayer to add a gradient to the background of <br/>
-the view controller. <br />
-<br/> 🥇 Gold Challenge <br/><br/>
-Space out labels evenly from the top of the safe area to the <br/>
-bottom of the safe area (for any screen size).
+<br/>&emsp;&emsp;  🥉 Bronze Challenge <br/><br/>
+&emsp;&emsp; Remove all constraints from the ViewController and add them <br/>
+&emsp;&emsp; back in by yourself. <br />
+<br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
+&emsp;&emsp; Use a CAGradientLayer to add a gradient to the background of <br/>
+&emsp;&emsp; the view controller. <br />
+<br/>&emsp;&emsp;  🥇 Gold Challenge <br/><br/>
+&emsp;&emsp; Space out labels evenly from the top of the safe area to the <br/>
+&emsp;&emsp; bottom of the safe area (for any screen size).
 <br clear="left"/><br/><br/>
 
 ### Chapter 4 Challenge: WorldTrotter
 
 <img align="left" src="Chapter 4 Challenge/preview.GIF" height="600"><br/><br/><br/><br/>
-This chapter focused on view controllers and their various properties. <br/>
+&emsp;&emsp; This chapter focused on view controllers and their various properties. <br/>
 
-<br/> 🥉 Bronze Challenge <br/><br/>
-Take the Quiz from the first app and put that into a third tab bar item. <br/>
-<br/> 🥈 Silver Challenge <br/><br/>
-Make the temperature conversion screen have a random background <br/>
-color each time it is viewed. <br/>
-<br/> 🥇 Gold Challenge <br/><br/>
-nil<br/>
+<br/>&emsp;&emsp;  🥉 Bronze Challenge <br/><br/>
+&emsp;&emsp; Take the Quiz from the first app and put that into a third tab bar item. <br/>
+<br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
+&emsp;&emsp; Make the temperature conversion screen have a random background <br/>
+&emsp;&emsp; color each time it is viewed. <br/>
+<br/>&emsp;&emsp;  🥇 Gold Challenge <br/><br/>
+&emsp;&emsp; nil<br/>
 <br clear="left"/><br/><br/>
 
 ### Chapter 5 Challenge: WorldTrotter
 
 <img align="left" src="Chapter 5 Challenge/preview.GIF" height="600"><br/><br/><br/><br/>
-This chapter focused on building views and setting constraints programmatically. <br/>
+&emsp;&emsp; This chapter focused on building views and setting constraints programmatically. <br/>
 
-<br/> 🥉 Bronze Challenge <br/><br/>
-(Programmatically) create a switch to toggle showing points of <br/>
-interest on the map screen. <br/>
-<br/> 🥈 Silver Challenge <br/><br/>
-Recreate the temperature conversion screen view programmatically. <br/>
-<br/> 🥇 Gold Challenge <br/><br/>
-nil<br/>
+<br/>&emsp;&emsp;  🥉 Bronze Challenge <br/><br/>
+&emsp;&emsp; (Programmatically) create a switch to toggle showing points of <br/>
+&emsp;&emsp; interest on the map screen. <br/>
+<br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
+&emsp;&emsp; Recreate the temperature conversion screen view programmatically. <br/>
+<br/>&emsp;&emsp;  🥇 Gold Challenge <br/><br/>
+&emsp;&emsp; nil<br/>
 <br clear="left"/><br/><br/>
 
 ## iOS Programming: The Big Nerd Ranch Guide (7th Edition)
