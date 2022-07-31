@@ -40,12 +40,15 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 ### Chapter 4 Challenge: WorldTrotter
 
 <img align="left" src="Chapter 4 Challenge/preview.GIF" height="600"><br/><br/><br/><br/>
-&emsp;&emsp; This chapter focused on view controllers and their various properties. <br/>
+&emsp;&emsp; This chapter focused on view controllers and their various <br/>
+&emsp;&emsp; properties. <br/>
 
 <br/>&emsp;&emsp;  🥉 Bronze Challenge <br/><br/>
-&emsp;&emsp; Take the Quiz from the first app and put that into a third tab bar item. <br/>
+&emsp;&emsp; Take the Quiz from the first app and put that into a third <br/>
+&emsp;&emsp; tab bar item. <br/>
 <br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
-&emsp;&emsp; Make the temperature conversion screen have a random background <br/>
+&emsp;&emsp; Make the temperature conversion screen have a random <br/>
+&emsp;&emsp; background <br/>
 &emsp;&emsp; color each time it is viewed. <br/>
 <br/>&emsp;&emsp;  🥇 Gold Challenge <br/><br/>
 &emsp;&emsp; nil<br/>
@@ -54,13 +57,16 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 ### Chapter 5 Challenge: WorldTrotter
 
 <img align="left" src="Chapter 5 Challenge/preview.GIF" height="600"><br/><br/><br/><br/>
-&emsp;&emsp; This chapter focused on building views and setting constraints programmatically. <br/>
+&emsp;&emsp; This chapter focused on building views and setting <br/>
+&emsp;&emsp; constraints programmatically. <br/>
 
 <br/>&emsp;&emsp;  🥉 Bronze Challenge <br/><br/>
-&emsp;&emsp; (Programmatically) create a switch to toggle showing points of <br/>
+&emsp;&emsp; (Programmatically) create a switch to toggle showing <br/>
+&emsp;&emsp; points of <br/>
 &emsp;&emsp; interest on the map screen. <br/>
 <br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
-&emsp;&emsp; Recreate the temperature conversion screen view programmatically. <br/>
+&emsp;&emsp; Recreate the temperature conversion screen view <br/>
+&emsp;&emsp; programmatically. <br/>
 <br/>&emsp;&emsp;  🥇 Gold Challenge <br/><br/>
 &emsp;&emsp; nil<br/>
 <br clear="left"/><br/><br/>
