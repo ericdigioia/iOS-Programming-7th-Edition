@@ -48,8 +48,7 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 &emsp;&emsp; tab bar item. <br/>
 <br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
 &emsp;&emsp; Make the temperature conversion screen have a random <br/>
-&emsp;&emsp; background <br/>
-&emsp;&emsp; color each time it is viewed. <br/>
+&emsp;&emsp; background color each time it is viewed. <br/>
 <br/>&emsp;&emsp;  🥇 Gold Challenge <br/><br/>
 &emsp;&emsp; nil<br/>
 <br clear="left"/><br/><br/>
@@ -62,8 +61,7 @@ My solutions to challenges from the book iOS Programming: The Big Nerd Ranch Gui
 
 <br/>&emsp;&emsp;  🥉 Bronze Challenge <br/><br/>
 &emsp;&emsp; (Programmatically) create a switch to toggle showing <br/>
-&emsp;&emsp; points of <br/>
-&emsp;&emsp; interest on the map screen. <br/>
+&emsp;&emsp; points of interest on the map screen. <br/>
 <br/>&emsp;&emsp;  🥈 Silver Challenge <br/><br/>
 &emsp;&emsp; Recreate the temperature conversion screen view <br/>
 &emsp;&emsp; programmatically. <br/>
